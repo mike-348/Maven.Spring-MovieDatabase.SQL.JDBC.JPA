@@ -20,3 +20,4 @@ public class PersistenceStarterApplication {
 		return registrationBean;
 	}
 }
+//jdbc:h2:~/test
